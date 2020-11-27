@@ -11,6 +11,5 @@
 有点意思，下面这张gif可以形容我的心情：
 
 
-<p style="margin: 0 auto">
-<img width="150" height="150"src="https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif" \>
-<div align=center><img width="150" height="150" src="https://img-blog.csdn.net/20161028230559575"/></div>
+<div align=center><img src="https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif"/></div>
+<div align=center><img width="150" height="150" src="https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif"/></div>
